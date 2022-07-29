@@ -1,2 +1,18 @@
+net/simonxz/prison/commands/Prestige.java
+ net.simonxz.prison.commands.Prestige
+net/simonxz/prison/commands/Rankup.java
+ net.simonxz.prison.commands.Rankup
+net/simonxz/prison/commands/admincommands/TokenGive.java
+ net.simonxz.prison.commands.admincommands.TokenGive
+net/simonxz/prison/files/CustomConfig.java
+ net.simonxz.prison.files.CustomConfig
+net/simonxz/prison/files/ConfigManager.java
+ net.simonxz.prison.files.ConfigManager
+net/simonxz/prison/commands/Help.java
+ net.simonxz.prison.commands.Help
+net/simonxz/prison/files/PlayerManager.java
+ net.simonxz.prison.files.PlayerManager
+net/simonxz/prison/commands/admincommands/TokenSet.java
+ net.simonxz.prison.commands.admincommands.TokenSet
 net/simonxz/prison/Prison.java
  net.simonxz.prison.Prison
