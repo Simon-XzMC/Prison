@@ -12,7 +12,7 @@ public enum Rank {
     private String display;
 
     Rank(String display) {
-        this.display = display;
+        th is.display = display;
 
 
 

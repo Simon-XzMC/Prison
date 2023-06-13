@@ -60,6 +60,7 @@ public class RankManager {
 
 
         //return Rank.valueOf(config.getString(uuid.toString()));
+
     }
 
 }

@@ -1,0 +1,14 @@
+
+target/Prison-1.0-SNAPSHOT.jar
+target/Prison-1.0-SNAPSHOT-shaded.jar
+target/Prison-1.0-SNAPSHOT-shaded.jar
+target/original-Prison-1.0-SNAPSHOT.jar
+*.jar
+target/classes/com/simonxz/prison/AdvancedLicense$LogType.class
+target/classes/com/simonxz/prison/AdvancedLicense$ValidationType.class
+target/classes/com/simonxz/prison/AdvancedLicense.class
+target/classes/com/simonxz/prison/Prison.class
+target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+target/original-Prison-1.0-SNAPSHOT.jar
+target/Prison-1.0-SNAPSHOT-shaded.jar

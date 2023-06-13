@@ -31,6 +31,7 @@ public class RankCommand implements CommandExecutor {
                         OfflinePlayer target = Bukkit.getOfflinePlayer(args[0]);
 
                         for (Rank rank : Rank.values()) {
+
                             if (rank.name().equalsIgnoreCase(args[1])) {
                                 prison.getRankManager().setRank(target.getUniqueId(), rank);
 

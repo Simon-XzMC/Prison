@@ -39,6 +39,7 @@ public class RankListener implements Listener {
     public void addPlayerConfig(Player p) {
 
 
+
         if (!Prison.cfgm.getPlayers().contains("Players." + p.getUniqueId().toString() + ".Name")) {
             Prison.cfgm.getPlayers().set("Players." + p.getUniqueId().toString() + ".Name", p.getName());
             Prison.cfgm.savePlayers();

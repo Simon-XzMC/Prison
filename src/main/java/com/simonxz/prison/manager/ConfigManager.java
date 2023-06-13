@@ -45,6 +45,7 @@ public class ConfigManager {
 
     public void reloadPlayers() {
         this.playerscfg = YamlConfiguration.loadConfiguration(this.playersfile);
+
     }
 
 }
