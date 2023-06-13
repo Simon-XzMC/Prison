@@ -1,0 +1,10 @@
+com\simonxz\prison\Prison.class
+com\simonxz\prison\AdvancedLicense$LogType.class
+com\simonxz\prison\Rank.class
+com\simonxz\prison\manager\ConfigManager.class
+com\simonxz\prison\RankCommand.class
+com\simonxz\prison\AdvancedLicense.class
+com\simonxz\prison\RankListener.class
+com\simonxz\prison\manager\NametagManager.class
+com\simonxz\prison\manager\RankManager.class
+com\simonxz\prison\AdvancedLicense$ValidationType.class

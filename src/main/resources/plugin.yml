@@ -1,0 +1,6 @@
+name: Prison
+version: '${project.version}'
+main: com.simonxz.prison.Prison
+api-version: 1.19
+commands:
+  rank:

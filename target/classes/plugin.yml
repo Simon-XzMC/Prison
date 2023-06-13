@@ -1,0 +1,6 @@
+name: Prison
+version: '1.0-SNAPSHOT'
+main: com.simonxz.prison.Prison
+api-version: 1.19
+commands:
+  rank:
