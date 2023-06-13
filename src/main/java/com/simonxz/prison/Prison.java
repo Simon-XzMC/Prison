@@ -39,5 +39,7 @@ public final class Prison extends JavaPlugin {
     @Override
     public void onDisable() {
         // Plugin shutdown logic
+
+
     }
 }
